@@ -1,4 +1,3 @@
-﻿// Виконав Іван Єнко
 #include <Windows.h>
 #include <iostream>
 
